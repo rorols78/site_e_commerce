@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6066660948e0b469a10eac9f888f8e5b",
+    "content-hash": "1f0ca2f2f0d5b7283984f56677f91856",
     "packages": [
         {
             "name": "doctrine/cache",
@@ -1321,16 +1321,16 @@
         },
         {
             "name": "easycorp/easyadmin-bundle",
-            "version": "v4.7.0",
+            "version": "v4.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/EasyCorp/EasyAdminBundle.git",
-                "reference": "17562010c5c7d160a5059c7f70b2c7e03f149d40"
+                "reference": "d6e4da1266239bd1ba70f190355ad27927850c0e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/EasyCorp/EasyAdminBundle/zipball/17562010c5c7d160a5059c7f70b2c7e03f149d40",
-                "reference": "17562010c5c7d160a5059c7f70b2c7e03f149d40",
+                "url": "https://api.github.com/repos/EasyCorp/EasyAdminBundle/zipball/d6e4da1266239bd1ba70f190355ad27927850c0e",
+                "reference": "d6e4da1266239bd1ba70f190355ad27927850c0e",
                 "shasum": ""
             },
             "require": {
@@ -1356,20 +1356,13 @@
                 "symfony/string": "^5.4|^6.0",
                 "symfony/translation": "^5.4|^6.0",
                 "symfony/twig-bundle": "^5.4|^6.0",
-                "symfony/uid": "^5.4|^6.0",
-                "symfony/validator": "^5.4|^6.0"
+                "symfony/uid": "^5.4|^6.0"
             },
             "require-dev": {
                 "doctrine/doctrine-fixtures-bundle": "^3.4",
-                "phpstan/extension-installer": "^1.2",
-                "phpstan/phpstan": "^1.9",
-                "phpstan/phpstan-phpunit": "^1.2",
-                "phpstan/phpstan-strict-rules": "^1.4",
-                "phpstan/phpstan-symfony": "^1.2",
                 "psr/log": "^1.0",
                 "symfony/browser-kit": "^5.4|^6.0",
                 "symfony/css-selector": "^5.4|^6.0",
-                "symfony/debug-bundle": "^5.4|^6.0",
                 "symfony/dom-crawler": "^5.4|^6.0",
                 "symfony/phpunit-bridge": "^5.4|^6.0"
             },
@@ -1403,7 +1396,7 @@
             ],
             "support": {
                 "issues": "https://github.com/EasyCorp/EasyAdminBundle/issues",
-                "source": "https://github.com/EasyCorp/EasyAdminBundle/tree/v4.7.0"
+                "source": "https://github.com/EasyCorp/EasyAdminBundle/tree/v4.0.2"
             },
             "funding": [
                 {
@@ -1411,7 +1404,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-06-26T18:40:07+00:00"
+            "time": "2022-01-09T16:20:55+00:00"
         },
         {
             "name": "egulias/email-validator",
